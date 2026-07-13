@@ -1,0 +1,8 @@
+pandas
+requests
+vaderSentiment
+google-generativeai
+praw
+streamlit
+plotly
+python-dotenv
