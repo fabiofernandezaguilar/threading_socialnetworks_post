@@ -20,7 +20,7 @@
 
 | ID | Requerimiento | Prioridad |
 |---|---|---|
-| RF-01 | El sistema debe extraer posts/tendencias cada 10 minutos desde un mínimo de 10 fuentes de datos | Alta |
+| RF-01 | El sistema debe extraer posts/tendencias cada 60 minutos desde un mínimo de 10 fuentes de datos | Alta |
 | RF-02 | El sistema debe soportar las siguientes plataformas: Twitter/X, Facebook, Instagram, LinkedIn, TikTok, YouTube, Pinterest, Reddit, Threads | Alta |
 | RF-03 | El sistema debe utilizar TrendsMCP API como fuente primaria unificada para Google Trends, YouTube, TikTok, Reddit, X/Twitter, Amazon, Wikipedia | Alta |
 | RF-04 | El sistema debe utilizar Trend-Pulse como fuente secundaria (scraping sin auth) para Weibo, Threads, Pinterest, LinkedIn Trending, Xiaohongshu | Media |
